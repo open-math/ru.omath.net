@@ -1,0 +1,14 @@
+{
+    "private": "true",
+    "name": "@erudit-js/site",
+    "type": "module",
+    "dependencies": {
+        "erudit": "3.0.0-dev.6",
+        "@erudit-js/bitran-elements": "3.0.0-dev.6"
+    },
+    "devDependencies": {
+        "prettier": "^3.5.3",
+        "@types/node": "^22.13.9",
+        "typescript": "^5.8.2"
+    }
+}
