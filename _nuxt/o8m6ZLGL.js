@@ -1,0 +1,1 @@
+import{i as c}from"./D_Ce_GXt.js";import{f as p,aB as o,aC as m,F as f,l as i,o as u,aD as x,g as l}from"./CArnVfK8.js";const h=p({__name:"Text",props:{node:{}},setup(n){const a=n.node.parseData,s=c(),t=[];for(const e of a.split(/\\$/gm))e&&(t.push(o(m,s(e))),t.push(o("br")));t.pop();const r=o(f,t);return(e,_)=>(u(),i(x(l(r))))}});export{h as default};
