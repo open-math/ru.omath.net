@@ -22,7 +22,7 @@ jobs:
             - name: Install and Build 🔧
               run: |
                   bun install
-                  bun erudit-cli build
+                  bun run generate
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@v4

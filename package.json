@@ -2,13 +2,18 @@
     "private": "true",
     "name": "@erudit-js/site",
     "type": "module",
+    "scripts": {
+        "dev": "bun erudit-cli dev",
+        "generate": "bun erudit-cli generate",
+        "preview": "bun erudit-cli preview"
+    },
     "dependencies": {
-        "erudit": "3.0.0-dev.6",
-        "@erudit-js/bitran-elements": "3.0.0-dev.6"
+        "erudit": "3.0.0-dev.12",
+        "@erudit-js/bitran-elements": "3.0.0-dev.12"
     },
     "devDependencies": {
         "prettier": "^3.5.3",
-        "@types/node": "^22.13.9",
-        "typescript": "^5.8.2"
+        "@types/node": "^22.15.3",
+        "typescript": "^5.8.3"
     }
 }
