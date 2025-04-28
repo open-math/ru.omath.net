@@ -1,0 +1,1 @@
+import{_ as o}from"./BrksKjSr.js";import{j as s,f as t,o as a,w as r,a as _}from"./DfFD7B6f.js";const i=s({__name:"AsideMinorNews",setup(c){return(l,e)=>{const n=o;return a(),t(n,null,{default:r(()=>e[0]||(e[0]=[_("div",null,null,-1)])),_:1})}}}),d=Object.assign(i,{__name:"AsideMinorNews"});export{d as default};

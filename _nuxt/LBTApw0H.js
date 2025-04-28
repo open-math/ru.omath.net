@@ -1,1 +1,0 @@
-import{_ as o,c as n,o as s,a,b as r,w as c,d as _,e as m,F as l}from"./CArnVfK8.js";const p={};function d(u,e){const t=m;return s(),n(l,null,[e[1]||(e[1]=a("p",null,"Members",-1)),r(t,{to:"/practice/topic-b"},{default:c(()=>e[0]||(e[0]=[_("Погнали епты!")])),_:1})],64)}const i=o(p,[["render",d]]);export{i as default};

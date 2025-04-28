@@ -1,2 +1,0 @@
-import{f as r,A as i,a9 as l,aa as m,ab as p,ac as _,ad as g,ae as u,l as I,o as d,af as f}from"./CArnVfK8.js";const h=r({__name:"MyInlineIcon",props:{svg:{},name:{},wrapper:{}},setup(s){const n=s,t=i(()=>{try{const a=l(n.svg),e=`__my-icons-inline__${m(a)}`,o=p(a,e);return _(n,"#"+e,o)}catch(a){return g(`Failed to resolve inline icon "${n.name}"!
-Reason: ${(a==null?void 0:a.message)||a}`),u(n)}});return(a,c)=>(d(),I(f,{data:t.value},null,8,["data"]))}}),y=Object.assign(h,{__name:"MyInlineIcon"});export{y as default};

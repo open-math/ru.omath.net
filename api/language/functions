@@ -1,0 +1,1 @@
+{"m":"return function m(\nnumber,\none,\ntwo,\nfive,\nincludeNumber = true)\n{\n  const text = [five, one, two, two, two, five][\n  number % 100 > 10 && number % 100 < 20 ? 0 : Math.min(number % 10, 5)];\n\n  return includeNumber ? `${number} ${text}` : text;\n}"}
