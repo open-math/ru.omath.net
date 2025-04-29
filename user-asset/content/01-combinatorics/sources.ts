@@ -76,3 +76,38 @@ export const yaklass = defineContentSource({
     link: 'https://www.yaklass.ru/',
     description: 'Цифровой образовательный ресурс для школ',
 });
+
+export const mathExercises = defineContentSource({
+    type: 'site',
+    title: 'Math Exercises',
+    description: 'Сборник упражнений по математике',
+    link: 'https://www.math-exercises.com/',
+});
+
+export const archimedesLab = defineContentSource({
+    type: 'site',
+    title: 'Archimedes Lab Project',
+    description: 'Сборник математических фактов',
+    link: 'https://archimedes-lab.org/',
+});
+
+export const mathIsFun = defineContentSource({
+    type: 'site',
+    title: 'Math is Fun',
+    description: 'Обучающие статьи по математике',
+    link: 'https://www.mathsisfun.com/',
+});
+
+export const pikabu = defineContentSource({
+    type: 'site',
+    title: 'Пикабу',
+    description: 'Информационно-развлекательное сообщество',
+    link: 'https://pikabu.ru/',
+});
+
+export const demidovich = defineContentSource({
+    type: 'book',
+    title: 'Сборник задач и упражнений по математическому анализу',
+    description: 'Борис Павлович Демидович, «Астрель», 2005',
+    link: 'https://chembaby.ru/wp-content/uploads/2019/02/Сборник-задач-и-упр.-по-мат.-анализу_Демидович_2005-560с.pdf',
+});
