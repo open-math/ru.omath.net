@@ -4,7 +4,7 @@ import {
     sdamEge,
     wikipedia,
     yaklass,
-} from '#project/content/9-combinatoricss/sources';
+} from '#content/01-combinatorics/sources';
 
 export default defineContentReferences([
     {

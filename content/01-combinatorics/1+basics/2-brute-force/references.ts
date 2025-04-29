@@ -7,7 +7,7 @@ import {
     sdamEge,
     universityMathGuide,
     wikipedia,
-} from '#content/9-combinatoricss/sources';
+} from '#content/01-combinatorics/sources';
 
 export default defineContentReferences([
     {

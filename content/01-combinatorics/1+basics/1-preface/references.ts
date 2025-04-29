@@ -1,4 +1,4 @@
-import { combinatorics, wikipedia } from '#content/9-combinatoricss/sources';
+import { combinatorics, wikipedia } from '#content/01-combinatorics/sources';
 
 export default defineContentReferences([
     {
