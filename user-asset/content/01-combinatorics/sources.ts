@@ -123,3 +123,18 @@ export const mentalFloss = defineContentSource({
     title: 'Mental Floss',
     link: 'https://www.mentalfloss.com/',
 });
+
+export const matburo = defineContentSource({
+    type: 'site',
+    title: 'МатБюро',
+    description: 'Справочные материалы по математике',
+    link: 'https://www.matburo.ru/',
+});
+
+export const egeOk = defineContentSource({
+    type: 'site',
+    title: 'ЕГЭ? Ок!',
+    description:
+        'Подготовка к ЕГЭ по математике от репетитора Инны Владимировны Фельдман',
+    link: 'https://ege-ok.ru/',
+});

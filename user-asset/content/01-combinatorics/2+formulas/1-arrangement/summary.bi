@@ -1,6 +1,6 @@
 @diagram
     graph TD
-        arrangement[Размещение] -->|Без повторений| awr["$$ A_n^k = \frac{n!}{(n-k)!} $$"]
+        arrangement[**Размещение**] -->|Без повторений| awr["$$ A_n^k = \frac{n!}{(n-k)!} $$"]
         arrangement -->|С повторениями| ar["$$ \bar{A}_n^k = n^k $$"]
 
         class arrangement fill
