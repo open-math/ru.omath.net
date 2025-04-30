@@ -1,6 +1,6 @@
 @diagram
     graph TD
-        permutation[Перестановка] -->|Без повторений| pwr["$$ P_n = n! $$"]
+        permutation[**Перестановка**] -->|Без повторений| pwr["$$ P_n = n! $$"]
         permutation -.->|С повторениями$^*$| pr["$$ P_{n_1, \ \ldots, \ n_k} = \frac{n!}{n_1! \ \ldots \ n_k!} $$"]
 
         class permutation fill
