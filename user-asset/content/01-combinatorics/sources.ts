@@ -111,3 +111,15 @@ export const demidovich = defineContentSource({
     description: 'Борис Павлович Демидович, «Астрель», 2005',
     link: 'https://chembaby.ru/wp-content/uploads/2019/02/Сборник-задач-и-упр.-по-мат.-анализу_Демидович_2005-560с.pdf',
 });
+
+export const lindaHallLibrary = defineContentSource({
+    type: 'site',
+    title: 'Linda Hall Library',
+    link: 'https://www.lindahall.org/',
+});
+
+export const mentalFloss = defineContentSource({
+    type: 'site',
+    title: 'Mental Floss',
+    link: 'https://www.mentalfloss.com/',
+});
