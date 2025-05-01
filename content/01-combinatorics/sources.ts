@@ -145,3 +145,17 @@ export const dxdy = defineContentSource({
     description: 'Один из старейших российских научных форумов',
     link: 'https://dxdy.ru/',
 });
+
+export const znanija = defineContentSource({
+    type: 'site',
+    title: 'Знания',
+    description: 'Вопросы и ответы по школьным предметам',
+    link: 'https://znanija.com/',
+});
+
+export const elementaryAlgebra = defineContentSource({
+    type: 'book',
+    title: 'Элементарная алгебра',
+    description: 'Сергей Трофимович Завало, издательство «Просвещение», 1964',
+    link: 'https://scask.ru/o_book_ela.php',
+});
