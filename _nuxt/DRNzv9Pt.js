@@ -1,0 +1,1 @@
+import{d as e}from"./BLgJZKMa.js";import"./DVyLGYbM.js";const i=e({_element_title:"Term"});export{i as default};

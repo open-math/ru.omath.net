@@ -1,1 +1,0 @@
-import{P as n,g as t}from"./Bv8u9Fr_.js";async function a(r){if(r.type!==n.Link)return;const{linkTarget:e}=r;if(["external","absolute"].includes(e.type))return{type:t.GenericLink,external:e.type==="external",href:e.href}}export{a as buildGenericLink};
