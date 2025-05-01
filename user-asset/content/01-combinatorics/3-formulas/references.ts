@@ -1,4 +1,4 @@
-import { combinatorics, dxdy, egeOk } from '../sources';
+import { combinatorics, dxdy, egeOk } from '#content/01-combinatorics/sources';
 
 export default defineContentReferences([
     {
