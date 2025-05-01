@@ -138,3 +138,10 @@ export const egeOk = defineContentSource({
         'Подготовка к ЕГЭ по математике от репетитора Инны Владимировны Фельдман',
     link: 'https://ege-ok.ru/',
 });
+
+export const dxdy = defineContentSource({
+    type: 'site',
+    title: 'Научный форум dxdy',
+    description: 'Один из старейших российских научных форумов',
+    link: 'https://dxdy.ru/',
+});
