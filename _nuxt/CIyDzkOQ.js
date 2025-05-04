@@ -1,0 +1,1 @@
+import{P as i}from"./D0B1cicd.js";async function t(e){if(e.type!==i.Link)return;const{linkTarget:r}=e;if(r.type==="page")return await $fetch(`/api/preview/page${r._href}`,{responseType:"json"})}export{t as buildPageLink};
