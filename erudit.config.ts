@@ -3,8 +3,7 @@ import { diagramDeps, mathDeps } from '@erudit-js/bitran-elements';
 export default defineEruditConfig({
     language: 'ru',
     site: {
-        buildUrl: 'https://open-math.github.io',
-        baseUrl: '/ru.omath.net/',
+        buildUrl: 'https://omath.ru',
         title: 'Математика',
         slogan: 'Понятно и подробно',
         logotype: publicAsset('logotype.svg'),
