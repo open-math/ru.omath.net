@@ -8,8 +8,8 @@
         "preview": "bun erudit-cli preview"
     },
     "dependencies": {
-        "erudit": "3.0.0-dev.13",
-        "@erudit-js/bitran-elements": "3.0.0-dev.13"
+        "erudit": "3.0.0-dev.14",
+        "@erudit-js/bitran-elements": "3.0.0-dev.14"
     },
     "devDependencies": {
         "prettier": "^3.5.3",
