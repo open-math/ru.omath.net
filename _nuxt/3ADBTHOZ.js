@@ -1,0 +1,1 @@
+import{d as e}from"./BT5DvuU7.js";import"./D_AMHaXs.js";const i=e({_element_title:"Flex"});export{i as default};
