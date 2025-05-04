@@ -1,0 +1,1 @@
+import{d as e}from"./Bd9J2RQp.js";import"./D0B1cicd.js";const a=e({_element_title:"Утверждение",_section_proof:"Доказательство"});export{a as default};
