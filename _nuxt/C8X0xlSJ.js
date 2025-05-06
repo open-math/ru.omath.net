@@ -1,1 +1,0 @@
-import{E as o}from"./Bd9J2RQp.js";import{I as t}from"./D0B1cicd.js";function r(){var n;const e=t();if(!(e&&((n=e.props)==null?void 0:n.node)instanceof o))throw new Error("Bitran element SFC context is not detected!")}function m(){return r(),t().props.node}export{r as e,m as u};
