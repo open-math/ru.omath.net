@@ -22,11 +22,11 @@ export default defineEruditConfig({
         indexDescription:
             'Современный учебник по математике — понятный, интересный, открытый. Теория, конспекты и задачник в одном флаконе.',
     },
-    repository: {
-        name: 'open-math/ru.omath.net',
-        branch: 'main',
-        sharedUrl: 'open-math/shared',
-    },
+    // repository: {
+    //     name: 'open-math/ru.omath.net',
+    //     branch: 'main',
+    //     sharedUrl: 'open-math/shared',
+    // },
     ads: {
         leftBlockId: 'R-A-2185026-3',
         bottomBlockId: 'R-A-2185026-1',
