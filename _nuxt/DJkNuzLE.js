@@ -1,2 +1,0 @@
-import{g as o,p as i,h as p,m as l,i as m,j as u,k as g,l as _,f as d,o as v,n as y}from"./BhaJttmv.js";const f={__name:"MyInlineIcon",props:{svg:{type:String,required:!0},name:{type:String,required:!0},wrapper:{type:String,required:!1}},setup(s){const a=s,r=o(()=>{try{const e=i(a.svg),t=p(e);e.template=l(e.template);const n=`__my-icons-inline__${t}`,c=m(e,n);return u(a,n,c)}catch(e){return g(`Failed to resolve inline icon "${a.name}"!
-Reason: ${(e==null?void 0:e.message)||e}`),_(a)}});return(e,t)=>(v(),d(y,{data:r.value},null,8,["data"]))}};export{f as default};
