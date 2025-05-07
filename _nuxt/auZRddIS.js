@@ -1,1 +1,0 @@
-import{d as m}from"./MHAhon8k.js";import"./BzUZrifD.js";import"./BYdH7Ecc.js";import"./LO0vmAFF.js";import"./C548yGOR.js";import"./DL04BJnJ.js";import"./BOc_jsQY.js";import"./CawNIMJk.js";import"./BLTD_1-C.js";import"./UtxaGDdv.js";const u=m(i=>{let e=i.integer(101,1e3),t=0,o=5,r;do r=Math.floor(e/o),t+=r,o*=5;while(r>0);return{n:`${e}!`,answer:`${t}`}});export{u as default};
