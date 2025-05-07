@@ -1,1 +1,2 @@
-*.bi linguist-vendored
+*.bi linguist-language=Text
+*.bi linguist-detectable

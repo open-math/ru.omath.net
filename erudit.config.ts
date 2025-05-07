@@ -22,6 +22,15 @@ export default defineEruditConfig({
         indexDescription:
             'Лучшие учебники по математике! Теория, конспекты и задачник в одном флаконе.',
     },
+    repository: {
+        name: 'open-math/ru.omath.net',
+        branch: 'main',
+        sharedUrl: 'open-math/shared',
+    },
+    ads: {
+        leftBlockId: 'R-A-2185026-3',
+        bottomBlockId: 'R-A-2185026-1',
+    },
     dependencies: {
         ...mathDeps,
         ...diagramDeps,
