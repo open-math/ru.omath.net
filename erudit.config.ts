@@ -5,7 +5,7 @@ export default defineEruditConfig({
     site: {
         buildUrl: 'https://omath.ru',
         title: 'Математика',
-        slogan: 'Понятно и подробно',
+        slogan: 'Понятно и интересно',
         logotype: publicAsset('logotype.svg'),
         favicon: {
             default: publicAsset('favicon/default.svg'),
