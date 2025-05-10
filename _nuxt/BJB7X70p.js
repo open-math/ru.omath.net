@@ -1,1 +1,0 @@
-import{d as e}from"./HqulojU4.js";import"./CYerhEto.js";const i=e({_element_title:"Text"});export{i as default};
