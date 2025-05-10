@@ -43,7 +43,7 @@ export default defineEruditConfig({
             metricsId: '70781320',
         },
         google: {
-            verification: 'hbTull_8pcvJm4alie8PVq6',
+            verification: 'hbTull_8pcvJm4alie8PVq6-f87heZXqSGp6DVFsJPk',
             gtag: 'G-NE4S66HSF0',
         },
     },
