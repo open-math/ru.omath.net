@@ -1,1 +1,0 @@
-import{x as e,c as o,o as t,E as n,_ as r}from"./OCt86pEe.js";const c=e({__name:"HrElement",props:{node:{}},setup(p){return(s,m)=>(t(),o("hr",{class:n(s.$style.hr)},null,2))}}),l="_hr_1cd98_1",_={hr:l},a={$style:_},d=r(c,[["__cssModules",a]]);export{d as default};

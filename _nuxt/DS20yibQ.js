@@ -1,0 +1,1 @@
+import{_ as e,c as n,o,E as a,G as t}from"./DmPrUm6p.js";const c="_asideMinorPane_zdm5z_1",r={asideMinorPane:c},_={};function i(s,d){return o(),n("div",{class:t(s.$style.asideMinorPane)},[a(s.$slots,"default")],2)}const l={$style:r},M=Object.assign(e(_,[["render",i],["__cssModules",l]]),{__name:"AsideMinorPane"});export{M as _};

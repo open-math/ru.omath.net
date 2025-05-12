@@ -1,0 +1,2 @@
+import{b as o,p as i,g as p,m as l,d as m,e as u,w as g,f as d,a as _,o as v,h as y}from"./DmPrUm6p.js";const f={__name:"MyInlineIcon",props:{svg:{type:String,required:!0},name:{type:String,required:!0},wrapper:{type:String,required:!1}},setup(n){const a=n,r=o(()=>{try{const e=i(a.svg),t=p(e);e.template=l(e.template);const s=`__my-icons-inline__${t}`,c=m(e,s);return u(a,s,c)}catch(e){return g(`Failed to resolve inline icon "${a.name}"!
+Reason: ${(e==null?void 0:e.message)||e}`),d(a)}});return(e,t)=>(v(),_(y,{data:r.value},null,8,["data"]))}};export{f as default};
