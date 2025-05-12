@@ -27,6 +27,9 @@ export default defineEruditConfig({
         branch: 'main',
         sharedUrl: 'open-math/shared',
     },
+    content: {
+        bookSiteTitle: true,
+    },
     ads: {
         aside: {
             provider: 'yandex',
