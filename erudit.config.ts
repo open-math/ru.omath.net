@@ -29,6 +29,8 @@ export default defineEruditConfig({
     },
     content: {
         bookSiteTitle: true,
+        howToImproveLink:
+            'https://github.com/open-math/ru.omath.net/blob/main/pages/how-to-improve.md',
     },
     ads: {
         aside: {
