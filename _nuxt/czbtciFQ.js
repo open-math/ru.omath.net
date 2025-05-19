@@ -1,0 +1,1 @@
+import{u as a}from"./Bcigwdxm.js";import{A as r,K as t,T as p,G as c,c as m,o as u,L as f,E as i}from"./1T0ow2cI.js";import"./CqIBaGNl.js";const T=r({__name:"Text",props:{node:{}},setup(_){const s=a(),e=[];for(const o of s.split(/\\$/gm)){if(!o){e.push(t("br"));continue}e.push(t(p,o)),e.push(t("br"))}e.pop();const n=t(c,e);return(o,x)=>(u(),m(f(i(n))))}});export{T as default};
