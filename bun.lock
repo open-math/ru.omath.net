@@ -4,11 +4,11 @@
     "": {
       "name": "@erudit-js/site",
       "dependencies": {
-        "@erudit-js/bitran-elements": "3.0.0-dev.19",
-        "erudit": "3.0.0-dev.19",
+        "@erudit-js/bitran-elements": "3.0.0-dev.20",
+        "erudit": "3.0.0-dev.20",
       },
       "devDependencies": {
-        "@types/node": "^22.15.17",
+        "@types/node": "^22.15.19",
         "prettier": "^3.5.3",
         "typescript": "^5.8.3",
       },
@@ -103,11 +103,11 @@
 
     "@emnapi/wasi-threads": ["@emnapi/wasi-threads@1.0.2", "", { "dependencies": { "tslib": "^2.4.0" } }, "sha512-5n3nTJblwRi8LlXkJ9eBzu+kZR8Yxcc7ubakyQTFzPMtIhFpUBRbsnc2Dv88IZDIbCDlBiWrknhB4Lsz7mg6BA=="],
 
-    "@erudit-js/bitran-elements": ["@erudit-js/bitran-elements@3.0.0-dev.19", "", { "peerDependencies": { "@bitran-js/core": "1.0.0-dev.13", "@bitran-js/renderer-vue": "1.0.0-dev.13", "@bitran-js/transpiler": "1.0.0-dev.13", "@erudit-js/cog": "3.0.0-dev.19", "@floating-ui/vue": "^1.1.6", "image-size": "^2.0.2", "katex": "^0.16.21", "mermaid": "^11.6.0", "photoswipe": "^5.4.4", "sass": "^1.86.0", "vue": "^3.5.13" } }, "sha512-4rZ8L+f/2hSfaPPELNrXVrtJujPZCXKpVvfhVUbrGoYGxZ6WSfedifgb3oyDVSThz7VcjG4ZUL9yzlVQtTLiuA=="],
+    "@erudit-js/bitran-elements": ["@erudit-js/bitran-elements@3.0.0-dev.20", "", { "peerDependencies": { "@bitran-js/core": "1.0.0-dev.13", "@bitran-js/renderer-vue": "1.0.0-dev.13", "@bitran-js/transpiler": "1.0.0-dev.13", "@erudit-js/cog": "3.0.0-dev.20", "@floating-ui/vue": "^1.1.6", "image-size": "^2.0.2", "katex": "^0.16.21", "mermaid": "^11.6.0", "photoswipe": "^5.4.4", "sass": "^1.86.0", "vue": "^3.5.13" } }, "sha512-WKK+tNvvfQHQhJp1XQ8opjW6XSW9goRDLYbf9VvWvYNIVXAzcF7v2nJfBlM2QPJ2v+yjgXZDZsMRhwsza9wpxw=="],
 
-    "@erudit-js/cli": ["@erudit-js/cli@3.0.0-dev.19", "", { "dependencies": { "@erudit-js/cog": "3.0.0-dev.19", "chalk": "^5.4.1", "citty": "^0.1.6", "consola": "^3.4.0" }, "bin": { "erudit-cli": "bin/erudit-cli.mjs", "erudit": "bin/erudit-cli.mjs" } }, "sha512-tRd2jjl9ah5UWN55ZzQLlhOhhyc6nKkN/YXb2tOifFaOBqYRYtYM2zFPDoW1ZI+K+aBnKti7xBFGCO+2mLGVeg=="],
+    "@erudit-js/cli": ["@erudit-js/cli@3.0.0-dev.20", "", { "dependencies": { "@erudit-js/cog": "3.0.0-dev.20", "chalk": "^5.4.1", "citty": "^0.1.6", "consola": "^3.4.0" }, "bin": { "erudit-cli": "bin/erudit-cli.mjs", "erudit": "bin/erudit-cli.mjs" } }, "sha512-qzryA8d79br18nKYw3hNpcLdDiYpArEcIbSN3I7rSd1S0M6gLukaL/5sPSlsCtfY0W3Bh/Vzgg9PAZ9KAGxuCQ=="],
 
-    "@erudit-js/cog": ["@erudit-js/cog@3.0.0-dev.19", "", { "dependencies": { "gradient-string": "^3.0.0" }, "peerDependencies": { "@bitran-js/core": "1.0.0-dev.13", "@bitran-js/renderer-vue": "1.0.0-dev.13", "@bitran-js/transpiler": "1.0.0-dev.13" } }, "sha512-d1uIE1g7/LRac4HWHr0zVlwT3vXw0NFSRFrgd8tqKODglfCLj00RxBCGRLaMtsW6AWRp/N7Rf7EAB3/FeqNI8A=="],
+    "@erudit-js/cog": ["@erudit-js/cog@3.0.0-dev.20", "", { "dependencies": { "gradient-string": "^3.0.0" }, "peerDependencies": { "@bitran-js/core": "1.0.0-dev.13", "@bitran-js/renderer-vue": "1.0.0-dev.13", "@bitran-js/transpiler": "1.0.0-dev.13" } }, "sha512-l2PplZQ5TDIG6UYeRP8Cq0zfStDZ1FkYeCTYRjUQ6u2JU4eiLqkZI9uvfj1Jt0t8cCR0DeTLi2Y7aLfTHxVxGQ=="],
 
     "@esbuild/aix-ppc64": ["@esbuild/aix-ppc64@0.25.4", "", { "os": "aix", "cpu": "ppc64" }, "sha512-1VCICWypeQKhVbE9oW/sJaAmjLxhVqacdkvPLEjwlttjfwENRSClS8EjBz0KzRyFSCPDIkuXW34Je/vk7zdB7Q=="],
 
@@ -895,7 +895,7 @@
 
     "errx": ["errx@0.1.0", "", {}, "sha512-fZmsRiDNv07K6s2KkKFTiD2aIvECa7++PKyD5NC32tpRw46qZA3sOz+aM+/V9V0GDHxVTKLziveV4JhzBHDp9Q=="],
 
-    "erudit": ["erudit@3.0.0-dev.19", "", { "dependencies": { "@bitran-js/core": "1.0.0-dev.13", "@bitran-js/renderer-vue": "1.0.0-dev.13", "@bitran-js/transpiler": "1.0.0-dev.13", "@floating-ui/vue": "^1.1.6", "chalk": "^5.4.1", "chokidar": "^4.0.3", "consola": "^3.4.2", "esbuild": "^0.25.4", "glob": "^11.0.2", "image-size": "^2.0.2", "jiti": "^2.4.2", "nuxt": "3.17.3", "nuxt-my-icons": "1.1.1", "sass": "^1.87.0", "sqlite3": "^5.1.7", "typeorm": "^0.3.23", "vue": "latest", "vue-router": "latest" }, "peerDependencies": { "@erudit-js/bitran-elements": "3.0.0-dev.19", "@erudit-js/cli": "3.0.0-dev.19", "@erudit-js/cog": "3.0.0-dev.19" }, "bin": { "erudit-cli": "bin/erudit.mjs", "erudit": "bin/erudit.mjs" } }, "sha512-2tqRJgTsFNqO/Ju6l/RZuJxAHjhactdHmrotpl+K3yqtwus+TMlbw6Q0zGhp1q4mHQPljafyehHQ4twkkAAlfg=="],
+    "erudit": ["erudit@3.0.0-dev.20", "", { "dependencies": { "@bitran-js/core": "1.0.0-dev.13", "@bitran-js/renderer-vue": "1.0.0-dev.13", "@bitran-js/transpiler": "1.0.0-dev.13", "@floating-ui/vue": "^1.1.6", "chalk": "^5.4.1", "chokidar": "^4.0.3", "consola": "^3.4.2", "esbuild": "^0.25.4", "glob": "^11.0.2", "image-size": "^2.0.2", "jiti": "^2.4.2", "nuxt": "3.17.3", "nuxt-my-icons": "1.1.1", "sass": "^1.87.0", "sqlite3": "^5.1.7", "typeorm": "^0.3.23", "vue": "latest", "vue-router": "latest" }, "peerDependencies": { "@erudit-js/bitran-elements": "3.0.0-dev.20", "@erudit-js/cli": "3.0.0-dev.20", "@erudit-js/cog": "3.0.0-dev.20" }, "bin": { "erudit-cli": "bin/erudit.mjs", "erudit": "bin/erudit.mjs" } }, "sha512-a47jA5Eg+0RMLIu6h3ozgQYR1f7mAdUMu/o2JFXM3bhp+vKTHfEtD0CqiermkQBBELf4l5Ojij5SEido/c3Nmg=="],
 
     "es-define-property": ["es-define-property@1.0.1", "", {}, "sha512-e3nRfgfUZ4rNGL232gUgX06QNyyez04KdjFrF+LTRoOXmrOgFKDg4BCdsjW8EnT69eqdYGmRpJwiPVYNrCaW3g=="],
 
