@@ -5,7 +5,7 @@ export default defineTopic({
 Просто, наглядно, с примерами и без заучивания наизусть кучи странных правил.
 Это ключевой и необходимый навык в математике и всех остальных точных науках.
 `,
-    contributors: ['gwynerva'],
+    contributors: ['gwynerva', 'nagibin'],
     flags: {
         dev: true,
     },

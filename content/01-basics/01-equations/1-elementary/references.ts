@@ -1,4 +1,8 @@
-import { wikipedia } from '#content/01-basics/sources';
+import {
+    egeMathBalayan,
+    printAndSolve,
+    wikipedia,
+} from '#content/basics/sources';
 
 export default defineContentReferences([
     {
@@ -14,6 +18,14 @@ export default defineContentReferences([
                 description:
                     'Не такой уж и безобидный "шуточный" тест на очевидность происходящего',
                 link: 'https://w.wiki/DwLz',
+            },
+        ],
+    },
+    {
+        source: printAndSolve,
+        references: [
+            {
+                title: 'ОГЭ 2025. Задача 9. Уравнения',
             },
         ],
     },
