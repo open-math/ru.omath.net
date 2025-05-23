@@ -1,6 +1,7 @@
 import {
-    egeMathBalayan,
+    brilliant,
     printAndSolve,
+    shestakovSimpleEquations,
     wikipedia,
 } from '#content/basics/sources';
 
@@ -26,6 +27,34 @@ export default defineContentReferences([
         references: [
             {
                 title: 'ОГЭ 2025. Задача 9. Уравнения',
+            },
+            {
+                title: 'ЕГЭ Базовый 2025. Задача 17. Уравнения',
+            },
+        ],
+    },
+    {
+        source: shestakovSimpleEquations,
+        references: [
+            {
+                title: 'Линейные, тривиальные квадратные и уравнения с дробями',
+            },
+        ],
+    },
+    {
+        source: brilliant,
+        references: [
+            {
+                title: 'Simple Equations',
+                link: 'https://brilliant.org/wiki/solving-equations-simple/',
+            },
+            {
+                title: 'Setting Up Equations',
+                link: 'https://brilliant.org/wiki/setting-up-equations/',
+            },
+            {
+                title: 'Linear Equations',
+                link: 'https://brilliant.org/wiki/linear-equations/',
             },
         ],
     },
