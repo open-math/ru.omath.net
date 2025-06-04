@@ -1,0 +1,1 @@
+import{P as n,h as t}from"./B8j-voU8.js";async function a(r){if(r.type!==n.Link)return;const{linkTarget:e}=r;if(["external","absolute"].includes(e.type))return{type:t.GenericLink,external:e.type==="external",href:e.href}}export{a as buildGenericLink};
