@@ -1,8 +1,8 @@
+import { mathIsFun } from '#content/global-sources';
 import {
     brilliant,
     elementaryAlgebra,
     kvant,
-    mathIsFun,
     mccme,
     wikipedia,
 } from '#content/02+base-math/02-applications/sources';

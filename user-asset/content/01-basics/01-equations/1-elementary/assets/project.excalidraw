@@ -50,7 +50,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "MgSbEXDhd9pUOXNifxLuj",
@@ -95,7 +96,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "V5UqhwHb-KS8VmpTgUKSp",
@@ -140,7 +142,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "ihHFj8b2LZVTjfIM50d-C",
@@ -185,7 +188,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "t1KH3-a7dUJAXZlXF8GNW",
@@ -230,7 +234,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "zMDe3jxopWzKauUbCXX5A",
@@ -387,7 +392,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "Bm4gwf0D67TQYsOJC41KV",
@@ -432,7 +438,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "6jGnLbN-jhEjbwEE0vKlQ",
@@ -477,7 +484,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "SMDw6KuYYKLs0JAex0V8r",
@@ -526,7 +534,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "MHZvxnlM9fUcRIhIxs0Oq",
@@ -575,7 +584,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "cHm1cRbpxE8WfmfILR9ba",
@@ -624,7 +634,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "8ZrQzQ9Au1PR4VTgKZrTH",
@@ -669,7 +680,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "VKG05WXy1i8v8xVt6iBJs",
@@ -714,7 +726,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "CwXWkkR68_xQ4VR8pLSmW",
@@ -759,7 +772,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "4-MqlvmPhpdyY5A76ebyb",
@@ -804,7 +818,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "vW_-E1fAWr7uySs8R5mKW",
@@ -1103,7 +1118,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "Wx6Q-qeakxa07anjrt4Vh",
@@ -1148,7 +1164,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "1JuRrYZ_jEtOUmMqnN3Do",
@@ -1193,7 +1210,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "BL0k_DQ8RfCB6U1q37Q_S",
@@ -1242,7 +1260,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "TmWNJEcgzYxroutx-BuJ1",
@@ -1291,7 +1310,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "XuD9StqjSMz74yLvDE50A",
@@ -1411,7 +1431,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "ZS7HPikXMjat6XX7lPXpb",
@@ -1456,7 +1477,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "AdoeY04jrzozt9Ot8Hvl1",
@@ -1501,7 +1523,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "Pb89RXDe2Owx2Wkn208WJ",
@@ -1546,7 +1569,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "FaMpg0mB37qTcdDK7yEAJ",
@@ -1591,7 +1615,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "EM3XL5OkXibeuANFJ8G6-",
@@ -1677,7 +1702,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "IFmUIahQniUi9C8YeZIoY",
@@ -1722,7 +1748,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "XjL68fgZCy00t9hQ62rk5",
@@ -1767,7 +1794,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "y8kqG7J_iwJBFVppozBZ1",
@@ -1816,7 +1844,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "G0wzArUmC-FD-UVFDRb_P",
@@ -1865,7 +1894,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "sInREr1MofroGcsjNBu7E",
@@ -2803,7 +2833,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "_tCrrEO-e_E-cuauFSrbX",
@@ -2848,7 +2879,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "dCH-hhUKF5oEsCwzjDiF9",
@@ -2934,7 +2966,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "INS-x6EbWgHS2yPcuvnQi",
@@ -2983,7 +3016,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "8wfzXg1RhYqf5TNkG5y2_",
@@ -3210,7 +3244,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "DHrC1U0N_IRMmfIRymDx6",
@@ -3255,7 +3290,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "1qvG5wHKvahqedxLnLa_r",
@@ -3300,7 +3336,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "sKo7NnhwHEMxGKo7nJH-m",
@@ -3349,7 +3386,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "aLLc524zI270SuFgH3Fau",
@@ -3394,7 +3432,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "mJqoA4b50stncb8RYafgD",
@@ -3439,7 +3478,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "PZaBBdhA-onWVlmtpUqts",
@@ -3772,7 +3812,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "NgrZngHUSmVncIqd69nBH",
@@ -3817,7 +3858,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "H94upo__FrzpOtoC4uu3u",
@@ -3862,7 +3904,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "c45WayMZ77kXPwzdOomPy",
@@ -3907,7 +3950,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "NV3rzVQXlJsJCqalcl_zr",
@@ -3952,7 +3996,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "7NVWaq-APMPiBFgKL8dvz",
@@ -4038,7 +4083,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "sxfQYzWj1TieXx9gwmnmD",
@@ -4083,7 +4129,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "-rbTSkPmNClWHAPeKZ5WR",
@@ -4128,7 +4175,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "ZWVNlq6OSX5vJkG9v_Qzy",
@@ -4177,7 +4225,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "EqcslWq9DQT44mnasVy68",
@@ -4226,7 +4275,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "f09tl0ZIs1VxndEGCGuqT",
@@ -4877,7 +4927,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "VqSdIz-IexoFdT80Iuvw7",
@@ -4922,7 +4973,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "mopHL0sCiWxcugsfPEHz7",
@@ -5008,7 +5060,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "2Ai0RiUUWIBzV_jnd4eyx",
@@ -5057,7 +5110,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "a_x6BXgGJSDQrtuUp2FJW",
@@ -5284,7 +5338,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "npjSguVpQUZ2mNqFgu2nf",
@@ -5329,7 +5384,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "L-wZlkVJ6xsw9bcSO9TVd",
@@ -5374,7 +5430,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "EqrYkFG1hUnIkmlXnlRdq",
@@ -5423,7 +5480,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "ph5wFHlY2TbIQ2jenC9Py",
@@ -5468,7 +5526,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "vQCPj4ACQv5tKZmYyhMMc",
@@ -5513,7 +5572,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "QdJYAjVV7V0hAQt8rkFFs",
@@ -5904,7 +5964,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "vd_K0n-9Miwu93QJSjBO6",
@@ -5949,7 +6010,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "ovBA9sx0wzIzu8h-cNEhL",
@@ -5994,7 +6056,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "HJKiCcHr2ceON5Ba_CeUf",
@@ -6039,7 +6102,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "_mCQvaRa6tlTtf0zpdklq",
@@ -6084,7 +6148,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "tiAP71knCTAM4PouXTgv_",
@@ -6239,7 +6304,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "0kOuC0GV-jCVq5YYjjzUi",
@@ -6284,7 +6350,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "r2UFwQTOHfdRGCAVkv4iq",
@@ -6329,7 +6396,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "p8oqOXzFlgsvmmFdRs2aQ",
@@ -6378,7 +6446,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "RDdmjhw_8jtsf8OAx_0gC",
@@ -6427,7 +6496,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "lJjcfPqts9hUcYU3Z8Lqr",
@@ -6727,7 +6797,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "Iq4H1vw4beogtR3Hlp3T5",
@@ -6772,7 +6843,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "l0O7Mbq1U5YOV9XV6VhoR",
@@ -6817,7 +6889,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "U5NFDgIVeoGEOWT-PHEhG",
@@ -6862,7 +6935,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "K5ITH4_REqiwQ-P9JsczV",
@@ -6907,7 +6981,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "W6GAkal50q4DaszCPScQX",
@@ -6993,7 +7068,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "OxTLlUFkKI71hP94H3rCQ",
@@ -7038,7 +7114,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "UAJcuDLEfWAcVeKKaX5yK",
@@ -7083,7 +7160,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "roKSQ1wGexUShanKbeido",
@@ -7132,7 +7210,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "v6NURGwyZ05uxVB43q4I4",
@@ -7181,7 +7260,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "_5YVuwODPjs2CXrsZSSKL",
@@ -7426,7 +7506,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "bNifqgdQY_Q02fmgXp6NW",
@@ -7592,7 +7673,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "OUSuQpSweMS7-Hkfp12p3",
@@ -7637,7 +7719,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "pIXZBRdg5wk5HqPgn9LxU",
@@ -7682,7 +7765,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "kMB3fxAfd0fM5GsgDi9d-",
@@ -7920,7 +8004,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "LMmsZrOjVlAQHDW5t9e7Z",
@@ -7965,7 +8050,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "htCt8mIMXTLcNPkSV_3JS",
@@ -8010,7 +8096,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "EJdTYkyQR5mL1tcjSA7UK",
@@ -8275,7 +8362,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "slmVpkW4itvxhP92w8dH6",
@@ -8365,7 +8453,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "q1V_mmgW6HWaI51fZVIYD",
@@ -8410,7 +8499,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "jApVoJXepALaK5Yd7Jbe2",
@@ -8455,7 +8545,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "qTpBdzs2BDTp0jAIfXXPe",
@@ -8720,7 +8811,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "r2S7sFSZbw5yqhIb7PUPB",
@@ -8810,7 +8902,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "GTrsyWiSxqoZ-GYgdif4q",
@@ -8855,7 +8948,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "9WlYExCXu0eYt_lkVZUWY",
@@ -8900,7 +8994,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "HV-Gdwq36k-SssQ_7FsOJ",
@@ -9099,7 +9194,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "FxEwzkhHNjoqyRHQ_srWE",
@@ -9142,7 +9238,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "p7N4CrtATWLb5JU7W3TTK",
@@ -9185,7 +9282,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "jr-cekGqt3OIcLUeL3frT",
@@ -9228,7 +9326,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "h_-fGPtRGrAcfWDTwmZV5",
@@ -9464,7 +9563,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "oNHf9bEb4-zc0DILQ2avL",
@@ -9507,7 +9607,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "uHdINNGeOzkjQRmiQyyFK",
@@ -9550,7 +9651,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "w8wSiA5qktRtGDHVAT0oP",
@@ -9593,7 +9695,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "polygon": false
     },
     {
       "id": "LqGVKZ0ixKsFqZYlTNN5a",
@@ -9890,13 +9993,122 @@
       "originalText": "2",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "TrTXY2e4EBgRYDrIleIOq",
+      "type": "ellipse",
+      "x": 2293.091663126018,
+      "y": 2012.4469995596978,
+      "width": 57.53888107138114,
+      "height": 57.53888107138114,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "cqawmGjRMg64Qpopv8O4D"
+      ],
+      "frameId": null,
+      "index": "b5S",
+      "roundness": null,
+      "seed": 1969088091,
+      "version": 320,
+      "versionNonce": 217577531,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1749222309649,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "b0JzyzM0QWWORIsOODZAA",
+      "type": "text",
+      "x": 2196.47588870892,
+      "y": 2007.3426126254076,
+      "width": 250.86109190114433,
+      "height": 63.348760581097025,
+      "angle": 0,
+      "strokeColor": "#8c8c8c",
+      "backgroundColor": "#8c8c8c50",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "cqawmGjRMg64Qpopv8O4D"
+      ],
+      "frameId": null,
+      "index": "b5T",
+      "roundness": null,
+      "seed": 2066113275,
+      "version": 216,
+      "versionNonce": 493041883,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1749222309649,
+      "link": null,
+      "locked": false,
+      "text": "3 + x = 5",
+      "fontSize": 50.67900846487765,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "3 + x = 5",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "IWX-tuT4B0Q3Sd0rp1wsR",
+      "type": "text",
+      "x": 2321.571459256873,
+      "y": 1976.1472376888385,
+      "width": 67.03047932493052,
+      "height": 61.023480466508545,
+      "angle": 2.5767979893217223,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "cqawmGjRMg64Qpopv8O4D"
+      ],
+      "frameId": null,
+      "index": "b5U",
+      "roundness": null,
+      "seed": 1492880763,
+      "version": 1184,
+      "versionNonce": 1272800635,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1749222309649,
+      "link": null,
+      "locked": false,
+      "text": "👉",
+      "fontSize": 48.81878437320686,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "👉",
+      "autoResize": true,
+      "lineHeight": 1.25
     }
   ],
   "appState": {
     "gridSize": 20,
     "gridStep": 5,
     "gridModeEnabled": false,
-    "viewBackgroundColor": "#ffffff"
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
   },
   "files": {}
 }
