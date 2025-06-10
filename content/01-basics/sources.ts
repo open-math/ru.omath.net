@@ -27,3 +27,10 @@ export const brilliant = defineContentSource({
         'Прекрасный сайт с наглядными пояснениями, хорошими примерами и упражнениями.',
     link: 'https://brilliant.org/',
 });
+
+export const yaklass = defineContentSource({
+    type: 'site',
+    title: 'ЯКласс',
+    link: 'https://www.yaklass.ru/',
+    description: 'Цифровой образовательный ресурс для школ',
+});

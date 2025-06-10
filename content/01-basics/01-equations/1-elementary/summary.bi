@@ -37,3 +37,7 @@
 <~ article|alina-phone
 
 <~ article|motion
+
+# Типовые ошибки
+
+<~ article|common-mistakes

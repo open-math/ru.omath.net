@@ -29,7 +29,7 @@ export const sdamEge = defineContentSource({
     type: 'site',
     title: 'Сдам ГИА / Решу ЕГЭ / Решу ОГЭ',
     description:
-        'Образовательный портал для подготовки к заключительным школьным экзаменам в Россиии',
+        'Образовательный портал для подготовки к заключительным школьным экзаменам в России',
     link: 'https://sdamgia.ru/',
 });
 
@@ -89,13 +89,6 @@ export const archimedesLab = defineContentSource({
     title: 'Archimedes Lab Project',
     description: 'Сборник математических фактов',
     link: 'https://archimedes-lab.org/',
-});
-
-export const mathIsFun = defineContentSource({
-    type: 'site',
-    title: 'Math is Fun',
-    description: 'Обучающие статьи по математике',
-    link: 'https://www.mathsisfun.com/',
 });
 
 export const pikabu = defineContentSource({
@@ -158,4 +151,11 @@ export const elementaryAlgebra = defineContentSource({
     title: 'Элементарная алгебра',
     description: 'Сергей Трофимович Завало, издательство «Просвещение», 1964',
     link: 'https://scask.ru/o_book_ela.php',
+});
+
+export const rtSchool = defineContentSource({
+    type: 'site',
+    title: 'Лицей Ростелеком',
+    description: 'Образовательный проект Ростелекома',
+    link: 'https://lc.rt.ru/',
 });

@@ -35,10 +35,3 @@ export const brilliant = defineContentSource({
         'Прекрасный сайт с наглядными пояснениями, хорошими примерами и упражнениями.',
     link: 'https://brilliant.org/',
 });
-
-export const mathIsFun = defineContentSource({
-    type: 'site',
-    title: 'Math is Fun',
-    description: 'Обучающие статьи по математике',
-    link: 'https://www.mathsisfun.com/',
-});
