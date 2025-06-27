@@ -8,12 +8,12 @@
         "preview": "bun erudit preview"
     },
     "dependencies": {
-        "erudit": "3.0.0-dev.21",
-        "@erudit-js/bitran-elements": "3.0.0-dev.21"
+        "erudit": "3.0.0-dev.22",
+        "@erudit-js/bitran-elements": "3.0.0-dev.22"
     },
     "devDependencies": {
-        "prettier": "^3.5.3",
-        "@types/node": "^22.15.29",
+        "prettier": "^3.6.2",
+        "@types/node": "^22.15.33",
         "typescript": "^5.8.3"
     }
 }
