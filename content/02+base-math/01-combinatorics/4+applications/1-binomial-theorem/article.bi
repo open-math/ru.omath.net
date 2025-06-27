@@ -1,12 +1,6 @@
 ~ productRule article|~/rules/product|rule-of-product
 ~ combinations article|~/combination|combination-formula
 
-@todo
-    title: Добавить плашку "Продвинутая тема!"
-
-@todo
-    title: Добавить, что пройти тему можно только освоив правило умножения, сочетания и факториал!
-
 # Умножение многочленов
 
 Давайте умножим друг на друга два многочлена!

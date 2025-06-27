@@ -34,3 +34,18 @@ export const yaklass = defineContentSource({
     link: 'https://www.yaklass.ru/',
     description: 'Цифровой образовательный ресурс для школ',
 });
+
+export const fsu = defineContentSource({
+    type: 'book',
+    title: 'Формулы сокращенного умножения',
+    description: 'Великовская С.А.',
+    link: 'https://divn-shugl.edu.yar.ru/docs/velikovskaya_svetlana_aleks_35/fsu.pdf',
+});
+
+export const libreTextsMath = defineContentSource({
+    featured: true,
+    type: 'site',
+    title: 'LibreTexts Mathematics',
+    description: 'Свободные онлайн учебники на системе LibreTexts',
+    link: 'https://math.libretexts.org/',
+});
