@@ -6,7 +6,7 @@ function defineProblemGenerator(generator, initialSeed = "erudit-is-awesome") {
   };
 }
 
-// content/01-basics/01-equations/2-quadratic/generators/equation-from-roots.ts
+// content/01-basics/02-equations/2-quadratic/generators/equation-from-roots.ts
 var equation_from_roots_default = defineProblemGenerator((random) => {
   let root1 = random.integer(-100, 100);
   let root2 = random.integer(-100, 100);

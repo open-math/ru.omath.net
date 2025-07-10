@@ -1,1 +1,0 @@
-import{_ as o}from"./DX1DgYzT.js";import{A as s,c as t,o as _,x as r,r as a}from"./ma-yzDba.js";const i=s({__name:"AsideMinorNews",setup(c){return(l,e)=>{const n=o;return _(),t(n,null,{default:r(()=>e[0]||(e[0]=[a("div",null,null,-1)])),_:1,__:[0]})}}}),d=Object.assign(i,{__name:"AsideMinorNews"});export{d as default};

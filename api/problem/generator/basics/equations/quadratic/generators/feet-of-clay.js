@@ -6,7 +6,7 @@ function defineProblemGenerator(generator, initialSeed = "erudit-is-awesome") {
   };
 }
 
-// content/01-basics/01-equations/2-quadratic/generators/feet-of-clay.ts
+// content/01-basics/02-equations/2-quadratic/generators/feet-of-clay.ts
 var feet_of_clay_default = defineProblemGenerator((random) => {
   const dividers = [2, 3, 5];
   const simplifySteps = random.integer(3, 5);

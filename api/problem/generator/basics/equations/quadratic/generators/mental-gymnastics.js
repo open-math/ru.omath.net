@@ -6,7 +6,7 @@ function defineProblemGenerator(generator, initialSeed = "erudit-is-awesome") {
   };
 }
 
-// content/01-basics/01-equations/2-quadratic/generators/mental-gymnastics.ts
+// content/01-basics/02-equations/2-quadratic/generators/mental-gymnastics.ts
 var mental_gymnastics_default = defineProblemGenerator((random) => {
   let m = random.integer(-12, 12);
   let n = random.integer(-12, 12);

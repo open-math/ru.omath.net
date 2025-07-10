@@ -6,7 +6,7 @@ function defineProblemGenerator(generator, initialSeed = "erudit-is-awesome") {
   };
 }
 
-// content/01-basics/01-equations/1-elementary/generators/general-formula.ts
+// content/01-basics/02-equations/1-elementary/generators/general-formula.ts
 var general_formula_default = defineProblemGenerator((random) => {
   let A = random.integer(-10, 10);
   while (A === 0) {

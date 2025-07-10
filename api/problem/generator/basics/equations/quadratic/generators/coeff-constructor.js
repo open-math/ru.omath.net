@@ -12,7 +12,7 @@ function getRandomLetter(random) {
   return random.arrayElement(letters.split(""));
 }
 
-// content/01-basics/01-equations/2-quadratic/generators/coeff-constructor.ts
+// content/01-basics/02-equations/2-quadratic/generators/coeff-constructor.ts
 var coeff_constructor_default = defineProblemGenerator((random) => {
   const generateCoeff = () => {
     const type = random.integer(1, 6);

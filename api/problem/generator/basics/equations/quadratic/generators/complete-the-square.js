@@ -12,7 +12,7 @@ function getRandomLetter(random) {
   return random.arrayElement(letters.split(""));
 }
 
-// content/01-basics/01-equations/2-quadratic/generators/complete-the-square.ts
+// content/01-basics/02-equations/2-quadratic/generators/complete-the-square.ts
 var complete_the_square_default = defineProblemGenerator((random) => {
   const { from: from1, to: to1 } = getFirstProblem(random);
   const { from: from2, to: to2 } = getSecondProblem(random);

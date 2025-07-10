@@ -6,7 +6,7 @@ function defineProblemGenerator(generator, initialSeed = "erudit-is-awesome") {
   };
 }
 
-// content/01-basics/01-equations/1-elementary/generators/zero-factors.ts
+// content/01-basics/02-equations/1-elementary/generators/zero-factors.ts
 var zero_factors_default = defineProblemGenerator((random) => {
   const a = random.integer(-1e3, 1e3);
   const b = random.integer(-1e3, 1e3);

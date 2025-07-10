@@ -11,7 +11,7 @@ function signed(value) {
   return value < 0 ? value.toString() : `+${value}`;
 }
 
-// content/01-basics/01-equations/2-quadratic/generators/equations-mind-monic.ts
+// content/01-basics/02-equations/2-quadratic/generators/equations-mind-monic.ts
 var equations_mind_monic_default = defineProblemGenerator((random) => {
   const [root1, root2] = generateRoots(random);
   const b = -(root1 + root2);

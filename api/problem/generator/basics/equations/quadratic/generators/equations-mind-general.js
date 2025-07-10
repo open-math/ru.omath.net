@@ -11,7 +11,7 @@ function signed(value) {
   return value < 0 ? value.toString() : `+${value}`;
 }
 
-// content/01-basics/01-equations/2-quadratic/generators/equations-mind-general.ts
+// content/01-basics/02-equations/2-quadratic/generators/equations-mind-general.ts
 var equations_mind_general_default = defineProblemGenerator((random) => {
   let A;
   do {
