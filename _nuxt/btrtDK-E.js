@@ -1,0 +1,1 @@
+import{P as i,t as n}from"./BECuGpJR.js";async function p(e){if(e.type!==i.Link)return;const{linkTarget:t}=e;if(t.type!=="page")return;const r=n(`/api/preview/page${t._href}`,!1);return await $fetch(r,{responseType:"json"})}export{p as buildPageLink};

@@ -1,0 +1,1 @@
+import{_ as e,n,o,F as a,E as t}from"./BECuGpJR.js";const r="_asideMinorPane_zdm5z_1",_={asideMinorPane:r},c={};function i(s,d){return o(),n("div",{class:t(s.$style.asideMinorPane)},[a(s.$slots,"default")],2)}const l={$style:_},M=Object.assign(e(c,[["render",i],["__cssModules",l]]),{__name:"AsideMinorPane"});export{M as _};

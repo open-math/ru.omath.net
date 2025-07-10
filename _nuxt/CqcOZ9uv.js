@@ -1,0 +1,1 @@
+import{u as s,a as n,e as o}from"./BECuGpJR.js";function c(t){const i=r(),e=t.title?`${t.title} - ${i}`:i;s({title:e}),n({title:e,ogTitle:e,description:t.description,ogDescription:t.description})}function r(){var t,i;return((t=o.seo)==null?void 0:t.title)||((i=o.site)==null?void 0:i.title)||"Erudit"}export{c as u};
