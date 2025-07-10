@@ -3,6 +3,7 @@
 ~ sumRule article|~/rules/sum|rule-of-sum
 ~ combinations article|~/combination|combination-formula
 
+{ link }
 @problem
     title: Умножение многочленов
     level: easy
@@ -993,7 +994,7 @@
 
         $\blacksquare$
 
-{ #pascal-rule }
+{ #pascal-rule link }
 @problem
     title: Правило Паскаля
     level: hard
@@ -1166,7 +1167,7 @@
 
         $\blacksquare$
 
-{ #polynomial-theorem }
+{ #polynomial-theorem link }
 @problem
     title: Полиномиальная формула
     level: hard

@@ -19,8 +19,27 @@ export default defineEruditConfig({
     },
     seo: {
         indexTitle: 'Открытая Математика',
-        indexDescription:
-            'Современный учебник по математике — понятный, интересный, открытый. Теория, конспекты и задачник в одном флаконе.',
+        indexDescription: `
+            Современный учебник по математике — понятный, интересный, подробный.
+            Теория, конспекты и задачник в одном флаконе.
+            Написано так, чтобы вы во всём смогли разобраться самостоятельно.
+        `,
+        defaultOgImage: publicAsset('og.png'),
+    },
+    index: {
+        logotype: {
+            src: publicAsset('index-pattern.png'),
+            invert: 'dark',
+        },
+        title: 'Открытая Математика',
+        slogan: 'Теория, конспекты и задачник в одном флаконе',
+        description: `
+            Современный учебник по математике — понятный, интересный, подробный.
+            Написан так, чтобы вы во всём смогли разобраться самостоятельно.
+            Никаких сухих перечислений формул и теорем.
+            Только повествовательный подход с большим количеством примеров и задач на закрепление.
+            Внести свой вклад в материалы может любой желающий!
+        `,
     },
     repository: {
         name: 'open-math/ru.omath.net',
@@ -64,6 +83,15 @@ export default defineEruditConfig({
             verification: 'hbTull_8pcvJm4alie8PVq6-f87heZXqSGp6DVFsJPk',
             gtag: 'G-NE4S66HSF0',
         },
+    },
+    bitran: {
+        stat: [
+            'term',
+            'statement',
+            'important',
+            'example',
+            ['problem', 'problems'],
+        ],
     },
     dependencies: {
         ...mathDeps,

@@ -959,7 +959,7 @@
     answer: |
         $n = 22$
 
-{ #increasing-factorial }
+{ #increasing-factorial link }
 @problem
     title: Возрастающий факториал
     level: hard
