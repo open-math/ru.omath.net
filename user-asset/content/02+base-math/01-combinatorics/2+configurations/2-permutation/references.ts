@@ -1,3 +1,5 @@
+import { wikipedia } from '#content/global-sources';
+
 import {
     brilliant,
     combinatorics,
@@ -5,7 +7,6 @@ import {
     lindaHallLibrary,
     mentalFloss,
     universityMathGuide,
-    wikipedia,
     yaklass,
 } from '#content/02+base-math/01-combinatorics/sources';
 

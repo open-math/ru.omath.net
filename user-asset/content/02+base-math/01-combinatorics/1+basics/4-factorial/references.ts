@@ -1,11 +1,11 @@
-import { mathIsFun } from '#content/global-sources';
+import { wikipedia, mathIsFun } from '#content/global-sources';
+
 import {
     archimedesLab,
     brilliant,
     demidovich,
     mathExercises,
     pikabu,
-    wikipedia,
 } from '#content/02+base-math/01-combinatorics/sources';
 
 export default defineContentReferences([

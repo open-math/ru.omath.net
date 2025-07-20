@@ -7,13 +7,6 @@ export const kvant = defineContentSource({
     link: 'https://kvant.mccme.ru/',
 });
 
-export const wikipedia = defineContentSource({
-    type: 'site',
-    title: 'Википедия',
-    description: 'Свободная энциклопедия',
-    link: 'https://www.wikipedia.org/',
-});
-
 export const mccme = defineContentSource({
     type: 'site',
     title: 'Московский центр непрерывного математического образования',
