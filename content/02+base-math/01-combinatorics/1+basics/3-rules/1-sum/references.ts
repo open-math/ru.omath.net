@@ -1,8 +1,9 @@
+import { wikipedia } from '#content/global-sources';
+
 import {
     brilliant,
     combinatorics,
     sdamEge,
-    wikipedia,
     yaklass,
 } from '#content/02+base-math/01-combinatorics/sources';
 

@@ -1,7 +1,6 @@
-import {
-    combinatorics,
-    wikipedia,
-} from '#content/02+base-math/01-combinatorics/sources';
+import { wikipedia } from '#content/global-sources';
+
+import { combinatorics } from '#content/02+base-math/01-combinatorics/sources';
 
 export default defineContentReferences([
     {

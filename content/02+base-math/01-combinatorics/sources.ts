@@ -18,13 +18,6 @@ export const olimpiadCombinatorics = defineContentSource({
     link: 'https://mathus.ru/math/kombinatorika.pdf',
 });
 
-export const wikipedia = defineContentSource({
-    type: 'site',
-    title: 'Википедия',
-    description: 'Свободная энциклопедия',
-    link: 'https://ru.wikipedia.org/',
-});
-
 export const sdamEge = defineContentSource({
     type: 'site',
     title: 'Сдам ГИА / Решу ЕГЭ / Решу ОГЭ',

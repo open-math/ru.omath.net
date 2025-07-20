@@ -1,9 +1,10 @@
+import { wikipedia } from '#content/global-sources';
+
 import {
     brilliant,
     combinatorics,
     rtSchool,
     sdamEge,
-    wikipedia,
 } from '#content/02+base-math/01-combinatorics/sources';
 
 export default defineContentReferences([

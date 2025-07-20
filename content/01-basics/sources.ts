@@ -1,10 +1,3 @@
-export const wikipedia = defineContentSource({
-    type: 'site',
-    title: 'Википедия',
-    description: 'Свободная энциклопедия',
-    link: 'https://ru.wikipedia.org/',
-});
-
 export const printAndSolve = defineContentSource({
     type: 'site',
     title: 'Распечатай и реши',

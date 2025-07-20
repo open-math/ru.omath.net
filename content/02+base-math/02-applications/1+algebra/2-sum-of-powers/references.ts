@@ -1,10 +1,10 @@
-import { mathIsFun } from '#content/global-sources';
+import { mathIsFun, wikipedia } from '#content/global-sources';
+
 import {
     brilliant,
     elementaryAlgebra,
     kvant,
     mccme,
-    wikipedia,
 } from '#content/02+base-math/02-applications/sources';
 
 export default defineContentReferences([

@@ -1,4 +1,6 @@
-import { combinatorics, wikipedia } from '../../sources';
+import { wikipedia } from '#content/global-sources';
+
+import { combinatorics } from '../../sources';
 
 export default defineContentReferences([
     {

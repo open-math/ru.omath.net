@@ -1,3 +1,10 @@
+export const wikipedia = defineContentSource({
+    type: 'site',
+    title: 'Википедия',
+    description: 'Свободная энциклопедия',
+    link: 'https://ru.wikipedia.org/',
+});
+
 export const mathIsFun = defineContentSource({
     type: 'site',
     title: 'Math is Fun',

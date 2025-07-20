@@ -1,10 +1,11 @@
+import { wikipedia } from '#content/global-sources';
+
 import {
     brilliant,
     combinatorics,
     egeOk,
     elementaryAlgebra,
     universityMathGuide,
-    wikipedia,
     yaklass,
     znanija,
 } from '#content/02+base-math/01-combinatorics/sources';

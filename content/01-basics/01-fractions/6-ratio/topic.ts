@@ -1,5 +1,5 @@
 export default defineTopic({
-    title: 'Обыкновенные дроби',
+    title: 'Соотношения',
     flags: {
         dev: true,
     },

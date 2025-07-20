@@ -1,8 +1,9 @@
+import { wikipedia } from '#content/global-sources';
+
 import {
     brilliant,
     printAndSolve,
     shestakovSimpleEquations,
-    wikipedia,
 } from '#content/basics/sources';
 
 export default defineContentReferences([
