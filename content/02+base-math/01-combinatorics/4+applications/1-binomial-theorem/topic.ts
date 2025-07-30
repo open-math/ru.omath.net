@@ -9,5 +9,5 @@ export default defineTopic({
         advanced: true,
     },
     dependencies: ['~/combination'],
-    contributors: ['gwynerva'],
+    contributors: ['gwynerva', 'iradko'],
 });
