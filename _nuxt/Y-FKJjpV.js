@@ -1,1 +1,0 @@
-import"./BECuGpJR.js";const e={article:"outline/file-lines",summary:"file-star",practice:"file-check"},i={book:"outline/book",group:"folder",topic:"outline/file-lines"},t={contributor:"user"};export{i as C,t as I,e as T};

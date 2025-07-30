@@ -1,1 +1,0 @@
-import{z as e,n as o,o as n,E as t,_ as r}from"./BECuGpJR.js";const c=e({__name:"HrElement",props:{node:{}},setup(p){return(s,m)=>(n(),o("hr",{class:t(s.$style.hr)},null,2))}}),l="_hr_1cd98_1",_={hr:l},a={$style:_},d=r(c,[["__cssModules",a]]);export{d as default};
