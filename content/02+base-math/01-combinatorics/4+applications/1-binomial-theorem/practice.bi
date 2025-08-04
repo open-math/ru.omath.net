@@ -1106,6 +1106,7 @@
 
             $\blacksquare$
 
+{ #proof-by-induction link="Доказательство по индукции" }
 @problem
     title: Бином Ньютона по индукции
     level: hard
