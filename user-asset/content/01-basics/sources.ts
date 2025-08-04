@@ -13,6 +13,7 @@ export const shestakovSimpleEquations = defineContentSource({
 });
 
 export const brilliant = defineContentSource({
+    featured: true,
     type: 'site',
     title: 'Brilliant',
     description: 'Образовательная платформа по математике и IT',
@@ -41,4 +42,12 @@ export const libreTextsMath = defineContentSource({
     title: 'LibreTexts Mathematics',
     description: 'Свободные онлайн учебники на системе LibreTexts',
     link: 'https://math.libretexts.org/',
+});
+
+export const math6 = defineContentSource({
+    featured: true,
+    type: 'book',
+    title: 'Математика. 6 класс',
+    description:
+        'Мерзляк А.Г., Полонский В.Б., Якир М.С. "Просвещение" 2022 г.',
 });
