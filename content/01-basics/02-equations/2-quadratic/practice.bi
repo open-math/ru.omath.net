@@ -1,6 +1,6 @@
 ~ actionRule article|../elementary|same-action-rule
 ~ actionGlobal article|../elementary|action-always-global
-~ vieta article|vieta-formulas
+~ vieta article|vieta-theorem
 ~ factors article|quadratic-polynom-factors
 ~ monic article|monic-quadratic-equation
 ~ roots article|quadratic-equation-roots
@@ -2219,8 +2219,8 @@
         -   description: |
                 $$ 2x^2 - 5x - 7 = 2\left(\frac{3}{5}\right)^2 - 5 \left(\frac{3}{5}\right) - 7 $$
 
-{ #vieta-formulas }
-# Формулы Виета
+{ #vieta-theorem }
+# Теорема Виета
 
 { #mental-gymnastics }
 @problem

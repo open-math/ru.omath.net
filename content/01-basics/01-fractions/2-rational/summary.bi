@@ -1,6 +1,6 @@
 @diagram
     flowchart TD
-        integers["**Целые числа**<br>$$ \ldots, -2, -1, 0, 1, 2, \ldots $$"]
+        integers["**Целые числа** $\mathbb{Z}$<br>$$ \ldots, -2, -1, 0, 1, 2, \ldots $$"]
         integers -->|Проблема $1$| divisionGap["**Иногда не делятся нацело!**<br>$$ 1 : 2 = \ ? \qquad 7 : 2 = \ ? $$"]
         integers -->|Проблема $2$| partOfWhole["**Не обозначить часть от целого!**<br>Куски пиццы, шкура неубитого медведя..."]
 

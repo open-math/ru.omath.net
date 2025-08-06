@@ -1,5 +1,5 @@
 export default defineTopic({
-    title: 'Соотношения',
+    title: 'Отношения и пропорции',
     flags: {
         dev: true,
     },
