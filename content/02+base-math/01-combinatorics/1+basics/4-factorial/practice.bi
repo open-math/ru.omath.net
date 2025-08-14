@@ -147,7 +147,7 @@
                 $$ \frac{1}{n+1} $$
 
         -   description: |
-                $$ \frac{n!}{(n-2)! $$
+                $$ \frac{n!}{(n-2)!} $$
             solution: |
                 $$ \frac{n!}{(n-2)!} = \frac{(n-1)!\cdot n}{(n-2)!} = \frac{(n-2)!\cdot(n-1)\cdot n}{(n-2)!} = n\cdot(n-1) = n^{\underline{2}} $$
             answer: |
