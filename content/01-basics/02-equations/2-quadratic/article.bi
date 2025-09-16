@@ -1019,7 +1019,7 @@ $$ x^2 + 5x $$
             Добавим его и сразу же вычтем, чтобы не менять значение выражения:
 
             @math
-            \underbrace{(5y)^2 - 2 \cdot y \cdot \frac{7}{2} + \yellow{\left(\frac{7}{2}\right)^2}}_{\normalsize a^2 - 2\cdot a\cdot b + b^2} - \yellow{\left(\frac{7}{2}\right)^2}
+            \underbrace{(5y)^2 - 2 \cdot y \cdot \frac{7}{2} + \yellow{\left(\frac{7}{2}\right)^2}}_{\normalsize a^2 - 2\cdot a\cdot b + b^2} - \yellow{\left(\frac{7}{2}\right)^2} - 5
             \\
             \left( 5y - \frac{7}{2} \right)^2 - \frac{49}{4} - 5
             \\
