@@ -1,0 +1,1 @@
+function a(r){return Object.fromEntries(Object.entries(r).map(([t,e])=>[`level.${t}`,e]))}function s(r){return Object.fromEntries(Object.entries(r).flatMap(([t,e])=>[[`attribute.${t}`,e.title],[`attribute_explain.${t}`,e.explain]]))}export{a,s as c};
