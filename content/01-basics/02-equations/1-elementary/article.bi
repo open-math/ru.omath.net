@@ -917,7 +917,7 @@ $$ \brand{\cdot \ 0} \ | \ 2x = 10 \ | \brand{\cdot 0} \\ 0 \cdot 2x = 10 \cdot 
 Если буквы на одном уровне, то они умножаются, если на разных -- делятся:
 
 Вот тут SVG смещена влево!
-Подкорректировать.
+
 @image
     src: assets/magic-triangle-usage.svg
     maxWidth: 700px
